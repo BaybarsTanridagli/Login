@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\bin\Debug\net6.0\LoginSystem.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\bin\Debug\net6.0\LoginSystem.deps.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\bin\Debug\net6.0\LoginSystem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\bin\Debug\net6.0\LoginSystem.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\bin\Debug\net6.0\LoginSystem.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\refint\LoginSystem.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\LoginSystem.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\LoginSystem\obj\Debug\net6.0\ref\LoginSystem.dll
